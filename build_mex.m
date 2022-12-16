@@ -1,0 +1,1 @@
+mex mex_interface.c -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.6\include" -L./ -l./cuda_kernel
