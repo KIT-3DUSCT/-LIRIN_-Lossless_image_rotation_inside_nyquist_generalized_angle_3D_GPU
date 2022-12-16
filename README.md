@@ -2,6 +2,7 @@ Rotates lossless in the Fourier domain! Abitrary angles, abitrary
 rotation point. Limitation: Only z-axis rotation.
 No padding, but wrap around.
 
+Authors: Michael Zapf, Rouven Kiefer - 2022 KIT
 
 # Usage
 
